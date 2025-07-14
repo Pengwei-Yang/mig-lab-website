@@ -1,7 +1,7 @@
 ---
 ---
 
-# Pengwei-Yang's Website
+# Multi-modal Intelligence Group (MIG)
 
 An engaging 1-3 sentence description of your lab.
 
