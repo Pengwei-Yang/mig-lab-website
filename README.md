@@ -3,7 +3,7 @@
   ![on-pull-request](../../actions/workflows/on-pull-request.yaml/badge.svg)
   ![on-schedule](../../actions/workflows/on-schedule.yaml/badge.svg)
 
-  # Pengwei-Yang's Website
+  # MIG (UESTC)'s Website
 
   Visit **[website url](#)** 🚀
 
