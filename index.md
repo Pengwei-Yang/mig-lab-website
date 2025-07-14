@@ -3,7 +3,7 @@
 
 # Multi-modal Intelligence Group (MIG)
 
-An engaging 1-3 sentence description of your lab.
+Multi-modal Intelligence Group (MIG) is a research team based at the Future Media Center, University of Electronic Science and Technology of China (UESTC). The group is supervised by Professor [Guoqing Wang](https://faculty.uestc.edu.cn/wangguoqing2/zh_CN/index.htm) and co-supervised by Dr. [Tianyu Li](https://scholar.google.com/citations?user=6MUsCT4AAAAJ&hl=en). MIG consists of 40+ Ph.D. and Master's students, focusing on cutting-edge research in multi-modal artificial intelligence, including computer vision, multi-modal learning, LLM, MLLM, etc.
 
 {% include section.html %}
 
