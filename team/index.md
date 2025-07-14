@@ -26,8 +26,16 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% capture content %}
 
+## Faculties
+
 {% include figure.html image="images/photo.jpg" %}
+
+## PhD Students
+
 {% include figure.html image="images/photo.jpg" %}
+
+## Master Students
+
 {% include figure.html image="images/photo.jpg" %}
 
 {% endcapture %}
