@@ -1,6 +1,6 @@
 ---
 name: Guoqing Wang
-image: images/GuoqingWang.jpeg
+image: images/GuoqingWang.jpg
 role: teacher
 description: Laboratory leader
 links:
