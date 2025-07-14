@@ -38,11 +38,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include button.html
-  link="projects"
-  text="Browse our projects"
+  link="publications"
+  text="Browse Our Publications"
   icon="fa-solid fa-arrow-right"
   flip=true
-  style="bare"
+  style="rich"
 %}
 
 {% endcapture %}
