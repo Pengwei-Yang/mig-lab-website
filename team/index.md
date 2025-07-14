@@ -7,37 +7,21 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+I didn't meet you during the best times of my life; it's meeting you that gave me the best times of my life.
+
+
+
+Our laboratory is now hiring interns, master students, Ph.D. students, postdoctoral researchers, and engineers. Welcome to join us.
+
+
 
 {% include section.html %}
-
-{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
-
-{% include section.html background="images/background.jpg" dark=true %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-{% include section.html %}
-
-{% capture content %}
-
 ## Faculties
+{% include list.html data="members" component="portrait" filters="role: teacher" %}
+## Students and Interns
+{% include list.html data="members" component="portrait" filters="role: stuint" style="small" %}
 
-{% include figure.html image="images/photo.jpg" %}
+## Alumni
+{% include list.html data="members" component="portrait" filters="role: former" style="small" %}
 
-## PhD Students
-
-{% include figure.html image="images/photo.jpg" %}
-
-## Master Students
-
-{% include figure.html image="images/photo.jpg" %}
-
-{% endcapture %}
-
-{% include grid.html style="square" content=content %}
+{% include section.html %}
