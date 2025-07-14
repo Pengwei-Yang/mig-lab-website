@@ -2,7 +2,7 @@
 name: Tianyu Li
 image: images/TianyuLi.jpg
 role: teacher
-description: Postdoctoral Fellow
+description:   Postdoctoral Fellow
 links:
   google-scholar: 6MUsCT4AAAAJ
 ---
