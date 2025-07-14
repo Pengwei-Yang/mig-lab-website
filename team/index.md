@@ -18,8 +18,12 @@ Our laboratory is now hiring interns, master students, Ph.D. students, postdocto
 {% include section.html %}
 ## Faculties
 {% include list.html data="members" component="portrait" filters="role: teacher" %}
-## Students and Interns
-{% include list.html data="members" component="portrait" filters="role: stuint" style="small" %}
+
+## Phd Students
+{% include list.html data="members" component="portrait" filters="role: phd" style="small" %}
+
+## Masters Students
+{% include list.html data="members" component="portrait" filters="role: master" style="small" %}
 
 ## Alumni
 {% include list.html data="members" component="portrait" filters="role: former" style="small" %}
