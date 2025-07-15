@@ -19,7 +19,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
-  style="bare"
+  style="rich"
 %}
 
 {% endcapture %}
@@ -49,11 +49,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
+  image="images/publication.png"
+  link="publications"
+  title="Our Publications"
   flip=true
-  style="bare"
   text=text
 %}
 
@@ -64,17 +63,17 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include button.html
   link="team"
-  text="Meet our team"
+  text="Meet Our Team"
   icon="fa-solid fa-arrow-right"
   flip=true
-  style="bare"
+  style="rich"
 %}
 
 {% endcapture %}
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team.png"
   link="team"
   title="Our Team"
   text=text
