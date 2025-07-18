@@ -1,6 +1,6 @@
 ---
 name: Pengwei Yang
-image: images/PengweiYang.jpg
+image: images/pengweiyang.png
 role: phd
 links:
 
