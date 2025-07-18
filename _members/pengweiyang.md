@@ -21,15 +21,6 @@ links:
 
 - **[Towards peer-to-peer sharing of wireless energy services](https://link.springer.com/chapter/10.1007/978-3-031-26507-5_38), Pengwei Yang, Amani Abusafia, Abdallah Lakhdari, and Athman Bouguettaya, ICSOC 2022.**
 
-### 🔥 News:
-- **07/2023, Served as a Session Chair at ICWS 2023 (Core A).**
-
-- **05/2023, One paper was accepted by ICWS 2023 (Core A).**
-
-- **03/2023, One paper was accepted by PerCom 2023 (Core A\*).**
-
-- **11/2022, One paper was accepted by ICSOC 2022 (Core A).**
-
 ### 🏆 Honors and Awards:
 - **04/2025, 14<sup>th</sup> Place Nationwide in the China Industrial Algorithm Challenge**
 
@@ -38,3 +29,12 @@ links:
 - **02/2023, HDR-RASF, University of Sydney**
 
 - **05/2019, 1<sup>st</sup> Prize in the College Student Innovation Cup Competition**
+
+### 🔥 News:
+- **07/2023, Served as a Session Chair at ICWS 2023 (Core A).**
+
+- **05/2023, One paper was accepted by ICWS 2023 (Core A).**
+
+- **03/2023, One paper was accepted by PerCom 2023 (Core A\*).**
+
+- **11/2022, One paper was accepted by ICSOC 2022 (Core A).**
