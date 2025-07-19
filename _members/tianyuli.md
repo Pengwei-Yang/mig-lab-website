@@ -2,7 +2,7 @@
 name: Tianyu Li
 image: images/tianyuli.jpg
 role: teacher
-description:  Assistant Researcher
+description: Assistant Researcher
 links:
   google-scholar: 6MUsCT4AAAAJ
   email: cosmos.yu@hotmail.com
