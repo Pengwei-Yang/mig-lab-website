@@ -2,7 +2,7 @@
 name: Guoqing Wang
 image: images/guoqingwang.jpg
 role: teacher
-description: Laboratory leader
+description: Laboratory Leader
 links:
   google-scholar: V08v5OEAAAAJ
   emailuni: gqwang0420@uestc.edu.cn
