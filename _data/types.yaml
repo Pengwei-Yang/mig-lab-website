@@ -48,6 +48,18 @@ home-page:
   text: Home Page
   tooltip: Home page
 
+emailuni:
+  icon: fa-solid fa-envelope
+  text: Email (University)
+  tooltip: Email
+  link: mailto:$VALUE
+
+emailper:
+  icon: fa-solid fa-envelope
+  text: Email (Personal)
+  tooltip: Email
+  link: mailto:$VALUE
+
 email:
   icon: fa-solid fa-envelope
   text: Email
