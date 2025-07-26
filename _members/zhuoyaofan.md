@@ -1,6 +1,6 @@
 ---
 name: Zhuoyao Fan
-image: images/zhuoyaofan.jpeg
+image: images/zhuoyaofan.png
 role: master
 grade: 2024
 links:
