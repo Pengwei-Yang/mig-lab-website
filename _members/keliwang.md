@@ -1,6 +1,6 @@
 ---
 name: Keli Wang
-image: images/keliwang.jepg
+image: images/keliwang.jpeg
 role: master
 grade: 2024
 ---
