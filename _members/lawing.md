@@ -1,6 +1,6 @@
 ---
 name: Li Wang
-image: images/liwang.jepg
+image: images/liwang.jpeg
 role: master
 grade: 2025
 ---
