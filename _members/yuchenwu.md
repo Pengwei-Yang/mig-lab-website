@@ -1,6 +1,6 @@
 ---
 name: Yuchen Wu
-image: images/yuchenwu.jepg
+image: images/yuchenwu.jpeg
 role: master
 grade: 2025
 links:
