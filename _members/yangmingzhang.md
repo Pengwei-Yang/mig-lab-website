@@ -1,6 +1,6 @@
 ---
 name: Yangming Zhang
-image: images/yangmingzhang.jepg
+image: images/yangmingzhang.jpeg
 role: phd
 grade: 2024
 ---
