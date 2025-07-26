@@ -1,6 +1,6 @@
 ---
 name: Jiayi Zhou
-image: images/jiayizhou.jepg
+image: images/jiayizhou.png
 role: master
 grade: 2024
 ---
