@@ -4,7 +4,7 @@ image: images/xiwu.jepg
 role: phd
 links:
   google-scholar: https://scholar.google.com.hk/citations?user=BLqN44UAAAAJ&hl=zh-CN
-  orcid: [0000-0001-7961-2381](https://orcid.org/0000-0002-6039-1977)
+  orcid: https://orcid.org/0000-0002-6039-1977
 ---
 
 Xi Wu is a PhD student at the University of Electronic Science and Technology of China, supervised by Prof. [Guoqing Wang](https://faculty.uestc.edu.cn/wangguoqing2/zh_CN/index.htm). And her research areas focus on multimodal large models, data mining, and other related fields.
