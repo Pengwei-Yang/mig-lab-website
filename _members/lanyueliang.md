@@ -1,6 +1,6 @@
 ---
 name: Lanyue Liang
-image: images/lanyueliang.png
+image: images/lanyueliang.jpeg
 role: phd
 grade: 2023
 ---
