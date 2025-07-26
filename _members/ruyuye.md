@@ -1,6 +1,6 @@
 ---
 name: Ruyu Ye
-image: images/ruyuye.png
+image: images/ruyuye.jpeg
 role: master
 grade: 2025
 ---
