@@ -1,6 +1,6 @@
 ---
 name: Yunqiang Pei
-image: images/yunqiangpei.jepg
+image: images/yunqiangpei.jpeg
 role: phd
 grade: 2022
 ---
