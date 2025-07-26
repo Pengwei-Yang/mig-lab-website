@@ -3,7 +3,6 @@ name: Xi Wu
 image: images/xiwu.jepg
 role: phd
 links:
-
   google-scholar: https://scholar.google.com.hk/citations?user=BLqN44UAAAAJ&hl=zh-CN
   orcid: [0000-0001-7961-2381](https://orcid.org/0000-0002-6039-1977)
 ---
