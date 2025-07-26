@@ -1,6 +1,6 @@
 ---
 name: Rongyu Du
-image: images/rongyudu.jepg
+image: images/rongyudu.jpeg
 role: phd
 grade: 2025
 ---
