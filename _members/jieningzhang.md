@@ -1,6 +1,6 @@
 ---
 name: Jiening Zhang
-image: images/jieningzhang.jepg
+image: images/jieningzhang.jpeg
 role: master
 grade: 2024
 links:
