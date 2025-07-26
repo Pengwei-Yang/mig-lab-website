@@ -1,6 +1,6 @@
 ---
 name: Minghang Zhou
-image: images/minghangzhou.jepg
+image: images/minghangzhou.jpeg
 role: master
 grade: 2023
 links:
