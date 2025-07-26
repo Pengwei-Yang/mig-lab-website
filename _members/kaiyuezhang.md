@@ -1,6 +1,6 @@
 ---
 name: Kaiyue Zhang
-image: images/kaiyuezhang.jepg
+image: images/kaiyuezhang.jpeg
 role: phd
 grade: 2025
 links:
