@@ -1,6 +1,6 @@
 ---
 name: Mingfeng Zha
-image: images/mingfengzha.jepg
+image: images/mingfengzha.jpeg
 role: master
 grade: 2023
 ---
