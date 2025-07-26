@@ -14,4 +14,4 @@ Xi Wu is a PhD student at the University of Electronic Science and Technology of
 - [Parameter-free shifted Laplacian reconstruction for multiple kernel clustering](https://ieeexplore.ieee.org/document/10198711), Xi Wu, Zhenwen Ren, F Richard Yu, IEEE/CAA Journal of Automatica Sinica.
 - [Multiple Kernel Clustering with Shifted Laplacian on Grassmann Manifold](https://dl.acm.org/doi/10.1145/3664647.3681282), Xi Wu, Chuang Huang, Xinliu Liu, Fei Zhou, Zhenwen Ren, MM2024.
 - [Prior indicator guided anchor learning for multi-view subspace clustering](https://ieeexplore.ieee.org/document/10263799), Xi Wu, Hanchen Wang, Shuxiao Li, Jian Dai, Zhenwen Ren, IEEE Transactions on Consumer Electronics.
-- [Robust Graph Contrastive Learning for Incomplete Multi-View Clustering], Deyin Zhuang,Jian Dai,Xingfeng Li,Xi Wu,Yuan Sun,Zhenwen Ren, IJCAI2025.
+- Robust Graph Contrastive Learning for Incomplete Multi-View Clustering, Deyin Zhuang,Jian Dai,Xingfeng Li,Xi Wu,Yuan Sun,Zhenwen Ren, IJCAI2025.
