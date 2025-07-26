@@ -1,6 +1,6 @@
 ---
 name: Dongyu Xie
-image: images/dongyuxie.jepg
+image: images/dongyuxie.jpeg
 role: master
 grade: 2023
 ---
