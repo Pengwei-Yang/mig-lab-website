@@ -1,6 +1,6 @@
 ---
 name: Junyu Liu
-image: images/junyuliu.jepg
+image: images/junyuliu.jpeg
 role: phd
 grade: 2024
 ---
