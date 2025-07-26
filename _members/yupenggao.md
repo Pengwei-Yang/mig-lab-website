@@ -1,6 +1,6 @@
 ---
 name: Yupeng Gao
-image: images/yupenggao.jpg
+image: images/yupenggao.png
 role: phd
 grade: 2024
 ---
