@@ -2,6 +2,7 @@
 name: Pengwei Yang
 image: images/pengweiyang.png
 role: phd
+grade: 2025
 links:
 
   home-page: https://www.pengweiyang.com
@@ -14,3 +15,6 @@ Pengwei Yang is a Ph.D. student at University of Electronic Science and Technolo
 
 ### 📝 Publications:
 - [Energy Loss Prediction in IoT Energy Services](https://ieeexplore.ieee.org/document/10248251), Pengwei Yang, Amani Abusafia, Abdallah Lakhdari, and Athman Bouguettaya, ICWS 2023.
+
+### 📧 E-mail:
+- krysertim@gmail.com
