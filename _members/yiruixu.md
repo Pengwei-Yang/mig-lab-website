@@ -1,6 +1,6 @@
 ---
 name: Yirui Xu
-image: images/yiruixu.jpeg
+image: images/yiruixu.png
 role: master
 grade: 2025
 ---
