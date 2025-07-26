@@ -1,6 +1,6 @@
 ---
 name: Chaofan Qiao
-image: images/chaofanqiao.jepg
+image: images/chaofanqiao.jpeg
 role: phd
 grade: 2023
 ---
