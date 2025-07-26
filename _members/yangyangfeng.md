@@ -1,6 +1,6 @@
 ---
 name: Yangyang Feng
-image: images/yangyangfeng.png
+image: images/yangyangfeng.jpeg
 role: master
 grade: 2025
 ---
