@@ -1,6 +1,6 @@
 ---
 name: Xi Wu
-image: images/xiwu.jeg
+image: images/xiwu.png
 role: phd
 grade: 2025
 links:
