@@ -1,6 +1,6 @@
 ---
 name: Zixiao Hu
-image: images/zixiaohu.jpeg
+image: images/zixiaohu.png
 role: master
 grade: 2024
 ---
