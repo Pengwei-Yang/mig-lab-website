@@ -14,8 +14,7 @@ We try our best to do research with long-term impact.
 ## Highlighted
 
 {% include citation.html lookup="DMM: Disparity-guided Multispectral Mamba for Oriented Object Detection in Remote Sensing" style="rich" %}
-{% include citation.html lookup="DMM: Disparity-guided Multispectral Mamba for Oriented Object Detection in Remote Sensing" style="rich" %}
-{% include citation.html lookup="DMM: Disparity-guided Multispectral Mamba for Oriented Object Detection in Remote Sensing" style="rich" %}
+{% include citation.html lookup="Heterogeneous Experts and Hierarchical Perception for Underwater Salient Object Detection" style="rich" %}
 
 
 {% include section.html %}
