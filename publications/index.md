@@ -17,6 +17,9 @@ We try our best to do research with long-term impact.
 
 {% include citation.html lookup="BoxSup: Exploiting Bounding Boxes to Supervise Convolutional Networks for Semantic Segmentation" style="rich" %}
 
+{% include citation.html lookup="DMM: Disparity-guided Multispectral Mamba for Oriented Object Detection in Remote Sensing" style="rich" %}
+
+
 {% include section.html %}
 
 ## All
