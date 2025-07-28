@@ -2,7 +2,7 @@
 name: Dongyu Xie
 image: images/dongyuxie.jpeg
 role: master
-grade: 2023
+description: 2023
 ---
 
 Dongyu Xie is currently pursuing a master's degree at the University of Electronic Science and Technology of China. His main research interests lie in computational photography, ISP (Image Signal Processing), and image enhancement.
