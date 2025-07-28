@@ -16,7 +16,7 @@ Pengwei Yang is a Ph.D. student at University of Electronic Science and Technolo
 ### 📝 Publications:
 - [Energy Loss Prediction in IoT Energy Services](https://ieeexplore.ieee.org/document/10248251), Pengwei Yang, Amani Abusafia, Abdallah Lakhdari, and Athman Bouguettaya, ICWS 2023.
 - [Monitoring Efficiency of IoT Wireless Charging](https://ieeexplore.ieee.org/abstract/document/10150276), Pengwei Yang, Amani Abusafia, Abdallah Lakhdari, and Athman Bouguettaya, PerCom 2023.
-- [Towards Peer-to-Peer Sharing of Wireless Energy Services](https://link.springer.com/chapter/10.1007/978-3-031-26507-5_38), Pengwei Yang, Amani Abusafia, Abdallah Lakhdari, and Athman Bouguettaya, ICSOC 2023.
+- [Towards Peer-to-Peer Sharing of Wireless Energy Services](https://link.springer.com/chapter/10.1007/978-3-031-26507-5_38), Pengwei Yang, Amani Abusafia, Abdallah Lakhdari, and Athman Bouguettaya, ICSOC 2022.
 
 ### 📧 E-mail:
 - krysertim@gmail.com
