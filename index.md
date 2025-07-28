@@ -18,7 +18,7 @@ Specifically, our group explore the cutting edge research in the area of artific
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+The Multi-modal Intelligence Group (MIG) focuses on three major research directions that integrate cutting-edge artificial intelligence, computer vision, and aerial systems.
 
 {%
   include button.html
@@ -33,7 +33,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/research.jpg"
   link="research"
   title="Our Research"
   text=text
