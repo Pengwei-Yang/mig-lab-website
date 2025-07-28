@@ -281,3 +281,21 @@
   image: https://figures.semanticscholar.org/2772cd3edd8412098c18626c56063a4cc048c7c0/4-Figure3-1.png
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1109/TIP.2025.3572760
+  title: Heterogeneous Experts and Hierarchical Perception for Underwater Salient
+    Object Detection
+  authors:
+  - Mingfeng Zha
+  - Guoqing Wang
+  - Yunqiang Pei
+  - Tianyu Li
+  - Xiongxin Tang
+  - Chongyi Li
+  - Yang Yang
+  - Heng Tao Shen
+  publisher: IEEE Transactions on Image Processing
+  date: '2025-01-01'
+  link: https://doi.org/g9vgn5
+  image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/83/10795784/11018233/wang1-3572760-large.gif
+  plugin: sources.py
+  file: sources.yaml
