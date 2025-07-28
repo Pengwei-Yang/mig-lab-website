@@ -7,11 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-I didn't meet you during the best times of my life; it's meeting you that gave me the best times of my life.
+Multi-modal Intelligence Group (MIG) is a research team based at the Center for Future Media, University of Electronic Science and Technology of China (UESTC). 
 
-
-
-Our laboratory is now hiring interns, master students, Ph.D. students, postdoctoral researchers, and engineers. Welcome to join us.
+The group is supervised by Prof. Guoqing Wang and co-supervised by Dr. Tianyu Li.
 
 
 {% include section.html %}
