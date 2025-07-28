@@ -299,3 +299,57 @@
   image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/83/10795784/11018233/wang1-3572760-large.gif
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1007/978-3-031-72983-6_14
+  title: "Region-Aware Distribution Contrast: A Novel Approach to\_Multi-task Partially\
+    \ Supervised Learning"
+  authors:
+  - Meixuan Li
+  - Tianyu Li
+  - Guoqing Wang
+  - Peng Wang
+  - Yang Yang
+  - Jie Zou
+  publisher: Lecture Notes in Computer Science
+  date: '2024-10-29'
+  link: https://doi.org/g9vgpr
+  image: https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-3-031-72983-6_14/MediaObjects/635803_1_En_14_Fig2_HTML.png?
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TCSVT.2024.3497594
+  title: Toward Generalized and Realistic Unpaired Image Dehazing via Region-Aware
+    Physical Constraints
+  authors:
+  - Kaihao Lin
+  - Guoqing Wang
+  - Tianyu Li
+  - Yuhui Wu
+  - Chongyi Li
+  - Yang Yang
+  - Heng Tao Shen
+  publisher: IEEE Transactions on Circuits and Systems for Video Technology
+  date: '2025-03-01'
+  link: https://doi.org/g9vgps
+  image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/76/10916540/10752543/wang2ab-3497594-large.gif
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3664647.3681364
+  title: Improving Interaction Comfort in Authoring Task in AR-HRI through Dynamic
+    Dual-Layer Interaction Adjustment
+  authors:
+  - Yunqiang Pei
+  - Keiyue Zhang
+  - Hongrong Yang
+  - Yong Tao
+  - Qihang Tang
+  - Jialei Tang
+  - Guoqing Wang
+  - Zhitao Liu
+  - Ning Xie
+  - Peng Wang
+  - Yang Yang
+  - Hengtao Shen
+  publisher: Proceedings of the 32nd ACM International Conference on Multimedia
+  date: '2024-10-28'
+  link: https://doi.org/g84263
+  plugin: sources.py
+  file: sources.yaml
