@@ -2,7 +2,7 @@
 name: Yunqiang Pei
 image: images/yunqiangpei.jpeg
 role: phd
-grade: 2022
+description: 2022
 ---
 
 Yunqiang Pei is a Ph.D. student at the University of Electronic Science and Technology of China, with research interests in AR, HCI, HRI, physiological computing.                 
