@@ -459,6 +459,17 @@
   link: https://doi.org/g6x65x
   plugin: sources.py
   file: sources.yaml
+- id: 10.1109/TIFS.2019.2922331
+  title: Multi-Weighted Co-Occurrence Descriptor Encoding for Vein Recognition
+  authors:
+  - Guoqing Wang
+  - Changming Sun
+  - Arcot Sowmya
+  publisher: IEEE Transactions on Information Forensics and Security
+  date: '2020-01-01'
+  link: https://doi.org/g9vgsg
+  plugin: sources.py
+  file: sources.yaml
 - id: 10.1109/iccv.2019.00574
   title: 'ERL-Net: Entangled Representation Learning for Single Image De-Raining'
   authors:
