@@ -65,7 +65,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Multi-modal Intelligence Group (MIG) is a research team based at the Center for Future Media, University of Electronic Science and Technology of China (UESTC).
 
 {%
   include button.html
