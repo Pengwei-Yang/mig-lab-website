@@ -326,3 +326,425 @@
   link: https://doi.org/g84263
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1145/3664647.3681365
+  title: 'Emotion Recognition in HMDs: A Multi-task Approach Using Physiological Signals
+    and Occluded Faces'
+  authors:
+  - Yunqiang Pei
+  - Jialei Tang
+  - Qihang Tang
+  - Mingfeng Zha
+  - Dongyu Xie
+  - Guoqing Wang
+  - Zhitao Liu
+  - Ning Xie
+  - Peng Wang
+  - Yang Yang
+  - Hengtao Shen
+  publisher: Proceedings of the 32nd ACM International Conference on Multimedia
+  date: '2024-10-28'
+  link: https://doi.org/g9vgrs
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3664647.3681666
+  title: Generalizing ISP Model by Unsupervised Raw-to-raw Mapping
+  authors:
+  - Dongyu Xie
+  - Chaofan Qiao
+  - Lanyue Liang
+  - Zhiwen Wang
+  - Tianyu Li
+  - Qiao Liu
+  - Chongyi Li
+  - Guoqing Wang
+  - Yang Yang
+  publisher: Proceedings of the 32nd ACM International Conference on Multimedia
+  date: '2024-10-28'
+  link: https://doi.org/g9vgrt
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3664647.3681475
+  title: 'Cascaded Adversarial Attack: Simultaneously Fooling Rain Removal and Semantic
+    Segmentation Networks'
+  authors:
+  - Zhiwen Wang
+  - Yuhui Wu
+  - Zheng Wang
+  - Jiwei Wei
+  - Tianyu Li
+  - Guoqing Wang
+  - Yang Yang
+  - Hengtao Shen
+  publisher: Proceedings of the 32nd ACM International Conference on Multimedia
+  date: '2024-10-28'
+  link: https://doi.org/g9vgrv
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3664647.3680876
+  title: 'JoReS-Diff: Joint Retinex and Semantic Priors in Diffusion Model for Low-light
+    Image Enhancement'
+  authors:
+  - Yuhui Wu
+  - Guoqing Wang
+  - Zhiwen Wang
+  - Yang Yang
+  - Tianyu Li
+  - Malu Zhang
+  - Chongyi Li
+  - Heng Tao Shen
+  publisher: Proceedings of the 32nd ACM International Conference on Multimedia
+  date: '2024-10-28'
+  link: https://doi.org/g9vgrw
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/tgrs.2024.3477739
+  title: "Density-Aware Cloud Removal of Remote Sensing Imagery Using a Global\u2013\
+    Local Fusion Transformer"
+  authors:
+  - Quan Rui
+  - Shiyuan He
+  - Tianyu Li
+  - Guoqing Wang
+  - Ningjuan Ruan
+  - Lin Mei
+  - Yang Yang
+  - Heng Tao Shen
+  publisher: IEEE Transactions on Geoscience and Remote Sensing
+  date: '2024-01-01'
+  link: https://doi.org/g9vgrx
+  image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/36/10354519/10713444/wang3-3477739-large.gif
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/tpami.2024.3432308/mm1
+  title: Towards a Flexible Semantic Guided Model for Single Image Enhancement and
+    Restoration_supp1-3432308.pdf
+  authors:
+  - Yuhui Wu
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: ''
+  link: https://doi.org/g9vgrz
+  image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/34/10746266/10607918/wu2-3432308-large.gif
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/tcsvt.2024.3426673
+  title: Dual Domain Perception and Progressive Refinement for Mirror Detection
+  authors:
+  - Mingfeng Zha
+  - Feiyang Fu
+  - Yunqiang Pei
+  - Guoqing Wang
+  - Tianyu Li
+  - Xiongxin Tang
+  - Yang Yang
+  - Heng Tao Shen
+  publisher: IEEE Transactions on Circuits and Systems for Video Technology
+  date: '2024-11-01'
+  link: https://doi.org/g9vgr2
+  image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/76/10768851/10595128/wang2abcdefghi-3426673-large.gif
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1609/aaai.v38i7.28521
+  title: Weakly-Supervised Mirror Detection via Scribble Annotations
+  authors:
+  - Mingfeng Zha
+  - Yunqiang Pei
+  - Guoqing Wang
+  - Tianyu Li
+  - Yang Yang
+  - Wenbin Qian
+  - Heng Tao Shen
+  publisher: Proceedings of the AAAI Conference on Artificial Intelligence
+  date: '2024-03-24'
+  link: https://doi.org/g9vgr3
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1609/aaai.v38i4.28186
+  title: 'ScanERU: Interactive 3D Visual Grounding Based on Embodied Reference Understanding'
+  authors:
+  - Ziyang Lu
+  - Yunqiang Pei
+  - Guoqing Wang
+  - Peiwei Li
+  - Yang Yang
+  - Yinjie Lei
+  - Heng Tao Shen
+  publisher: Proceedings of the AAAI Conference on Artificial Intelligence
+  date: '2024-03-24'
+  link: https://doi.org/g9vgr4
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/vrw62533.2024.00195
+  title: 'Toward Optimized AR-Based Human-Robot Interaction Ergonomics: Modeling and
+    Predicting Interaction Comfort'
+  authors:
+  - Yunqiang Pei
+  - Bowen Jiang
+  - Kaiyue Zhang
+  - Ziyang Lu
+  - Mingfeng Zha
+  - Guoqing Wang
+  - Zhitao Liu
+  - Ning Xie
+  - Yang Yang
+  - Hengtao Shen
+  publisher: 2024 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts
+    and Workshops (VRW)
+  date: '2024-03-16'
+  link: https://doi.org/g9vgr5
+  image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/10536145/10536146/10536551/10536551-fig-1-source-large.gif
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-3-031-72983-6_1
+  title: "Diffusion Models as\_Optimizers for\_Efficient Planning in\_Offline RL"
+  authors:
+  - Renming Huang
+  - Yunqiang Pei
+  - Guoqing Wang
+  - Yangming Zhang
+  - Yang Yang
+  - Peng Wang
+  - Hengtao Shen
+  publisher: Lecture Notes in Computer Science
+  date: '2024-10-29'
+  link: https://doi.org/g9vgr6
+  image: https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-3-031-72983-6_1/MediaObjects/635803_1_En_1_Fig2_HTML.png?
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/vrw58643.2023.00206
+  title: 'Multimodal Apology: Using WebXR to Repair Trust with Virtual Companion'
+  authors:
+  - Yunqiang Pei
+  - Renming Huang
+  - Guoqing Wang
+  - Yang Yang
+  - Ning Xie
+  - Heng Tao Shen
+  publisher: 2023 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts
+    and Workshops (VRW)
+  date: '2023-03-01'
+  link: https://doi.org/g9vgr7
+  image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/10108528/10108504/10108674/10108674-fig-2-source-large.gif
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/tgrs.2023.3248106
+  title: Physics Guided Remote Sensing Image Synthesis Network for Ship Detection
+  authors:
+  - Weichang Zhang
+  - Rui Zhang
+  - Guoqing Wang
+  - Wei Li
+  - Xun Liu
+  - Yang Yang
+  - Die Hu
+  publisher: IEEE Transactions on Geoscience and Remote Sensing
+  date: '2023-01-01'
+  link: https://doi.org/g9vgr8
+  image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/36/10006360/10050530/zhang2-3248106-large.gif
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1360/SSI-2023-0133
+  title: "\u591A\u6A21\u53EF\u4FE1\u4EA4\u4E92\uFF1A\u4ECE\u591A\u6A21\u6001\u4FE1\
+    \u606F\u878D\u5408\u5230\u4EBA-\u673A\u5668\u4EBA-\u6570\u5B57\u4EBA\u4E09\u4F4D\
+    \u4E00\u4F53\u5F0F\u4EA4\u4E92\u6A21\u578B"
+  authors:
+  - Guoqing Wang
+  - Yunqiang Pei
+  - Yang Yang
+  - Xing Xu
+  - Zheng Wang
+  - Hengtao Shen
+  publisher: SCIENTIA SINICA Informationis
+  date: '2023-10-01'
+  link: https://doi.org/g9vgr9
+  image: https://www.nxrte.com/wp-content/uploads/2023/11/2023112906312366.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/cvpr52729.2023.00166
+  title: Learning Semantic-Aware Knowledge Guidance for Low-Light Image Enhancement
+  authors:
+  - Yuhui Wu
+  - Chen Pan
+  - Guoqing Wang
+  - Yang Yang
+  - Jiwei Wei
+  - Chongyi Li
+  - Heng Tao Shen
+  publisher: 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+  date: '2023-06-01'
+  link: https://doi.org/g87dr7
+  image: https://i-blog.csdnimg.cn/blog_migrate/84090ef1dcf8010fc070452e76a7536e.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-3-031-30111-7_20
+  title: "NAS-StegNet: Lightweight Image Steganography Networks via\_Neural Architecture\
+    \ Search"
+  authors:
+  - Zhixian Wang
+  - Guoqing Wang
+  - Yang Yang
+  publisher: Lecture Notes in Computer Science
+  date: '2023-01-01'
+  link: https://doi.org/g5m4vc
+  image: https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-3-031-30111-7_20/MediaObjects/537784_1_En_20_Fig1_HTML.png?
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1109/mcsoc57363.2022.00035
+  title: Driver Status Monitoring System with Feedback from Fatigue Detection and
+    Lane Line Detection
+  authors:
+  - Kai Yan
+  - Chaoyue Zhao
+  - Chengkang Shen
+  - Peiyan Wang
+  - Guoqing Wang
+  publisher: 2022 IEEE 15th International Symposium on Embedded Multicore/Many-core
+    Systems-on-Chip (MCSoC)
+  date: '2022-12-01'
+  link: https://doi.org/g9vgsb
+  image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/10008388/10008225/10008445/10008445-fig-7-source-large.gif
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1007/s11431-021-1914-8
+  title: Enhanced context encoding for single image raindrop removal
+  authors:
+  - GuoQing Wang
+  - Yang Yang
+  - Xing Xu
+  - JingJing Li
+  - HengTao Shen
+  publisher: Science China Technological Sciences
+  date: '2021-10-11'
+  link: https://doi.org/gnvpgt
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1145/3474085.3475632
+  title: Disentangled Representation Learning and Enhancement Network for Single Image
+    De-Raining
+  authors:
+  - Guoqing Wang
+  - Changming Sun
+  - Xing Xu
+  - Jingjing Li
+  - Zheng Wang
+  - Zeyu Ma
+  publisher: Proceedings of the 29th ACM International Conference on Multimedia
+  date: '2021-10-17'
+  link: https://doi.org/g9vgsc
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1016/j.combustflame.2021.01.032
+  title: Decomposition of swirling flame transfer function in the complex space
+  authors:
+  - Guoqing Wang
+  - Thibault F. Guiberti
+  - Xi Xia
+  - Lei Li
+  - Xunchen Liu
+  - William L. Roberts
+  - Fei Qi
+  publisher: Combustion and Flame
+  date: '2021-06-01'
+  link: https://doi.org/gmkcgc
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0010218021000468-gr2.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1007/s11263-020-01425-9
+  title: Context-Enhanced Representation Learning for Single Image Deraining
+  authors:
+  - Guoqing Wang
+  - Changming Sun
+  - Arcot Sowmya
+  publisher: International Journal of Computer Vision
+  date: '2021-03-02'
+  link: https://doi.org/g9vgsd
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs11263-020-01425-9/MediaObjects/11263_2020_1425_Fig3_HTML.png?
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1109/tip.2021.3064229
+  title: Attentive Feature Refinement Network for Single Rainy Image Restoration
+  authors:
+  - Guoqing Wang
+  - Changming Sun
+  - Arcot Sowmya
+  publisher: IEEE Transactions on Image Processing
+  date: '2021-01-01'
+  link: https://doi.org/gmv63c
+  image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/83/9263394/9380559/sun6-3064229-large.gif
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1109/tip.2020.3023773
+  title: Cascaded Attention Guidance Network for Single Rainy Image Restoration
+  authors:
+  - Guoqing Wang
+  - Changming Sun
+  - Arcot Sowmya
+  publisher: IEEE Transactions on Image Processing
+  date: '2020-01-01'
+  link: https://doi.org/g6gzvw
+  image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/83/8835130/9204852/sun2-3023773-large.gif
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.5220/0010432900360045
+  title: Adversarial Unsupervised Domain Adaptation Guided with Deep Clustering for
+    Face Presentation Attack Detection
+  authors:
+  - Yomna El-Din
+  - Mohamed Moustafa
+  - Hani Mahdi
+  publisher: Proceedings of the International Conference on Image Processing and Vision
+    Engineering
+  date: '2021-01-01'
+  link: https://doi.org/g9vgsf
+  image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/10206/9151439/9116802/han2-3002390-small.gif
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1109/cvpr42600.2020.00671
+  title: Cross-Domain Face Presentation Attack Detection via Multi-Domain Disentangled
+    Representation Learning
+  authors:
+  - Guoqing Wang
+  - Hu Han
+  - Shiguang Shan
+  - Xilin Chen
+  publisher: 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+  date: '2020-06-01'
+  link: https://doi.org/ghbbk3
+  image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRytuyTcB1z9Ov8VjXadczjzWPXKu1Jtz-Eow&s
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1109/tifs.2019.2924553
+  title: Learning a Compact Vein Discrimination Model With GANerated Samples
+  authors:
+  - Guoqing Wang
+  - Changming Sun
+  - Arcot Sowmya
+  publisher: IEEE Transactions on Information Forensics and Security
+  date: '2020-01-01'
+  link: https://doi.org/g6x65x
+  image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/10206/8833568/8744326/sun2-2924553-large.gif
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1109/tifs.2019.2922331
+  title: Multi-Weighted Co-Occurrence Descriptor Encoding for Vein Recognition
+  authors:
+  - Guoqing Wang
+  - Changming Sun
+  - Arcot Sowmya
+  publisher: IEEE Transactions on Information Forensics and Security
+  date: '2020-01-01'
+  link: https://doi.org/g9vgsg
+  image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/10206/8833568/8736890/sun2-2922331-large.gif
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1109/iccv.2019.00574
+  title: 'ERL-Net: Entangled Representation Learning for Single Image De-Raining'
+  authors:
+  - Guoqing Wang
+  - Changming Sun
+  - Arcot Sowmya
+  publisher: 2019 IEEE/CVF International Conference on Computer Vision (ICCV)
+  date: '2019-10-01'
+  link: https://doi.org/ghfg6h
+  image: https://i.loli.net/2020/02/09/G7cKqHPfiO5VXwl.png
+  plugin: sources.py
+  file: sources.yaml
