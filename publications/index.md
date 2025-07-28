@@ -19,7 +19,7 @@ We try our best to do research with long-term impact.
 
 {% include section.html %}
 
-## All
+## Selected
 
 {% include search-box.html %}
 
