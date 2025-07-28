@@ -2,7 +2,7 @@
 name: Yuchen Wu
 image: images/yuchenwu.jpeg
 role: master
-grade: 2025
+description: 2025
 links:
   home-page: https://yuchenwu73.github.io
 ---
