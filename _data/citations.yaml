@@ -178,14 +178,22 @@
   link: https://doi.org/g9vgrx
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1109/tpami.2024.3432308/mm1
+- id: 10.1109/TPAMI.2024.3432308
   title: Towards a Flexible Semantic Guided Model for Single Image Enhancement and
-    Restoration_supp1-3432308.pdf
+    Restoration
   authors:
   - Yuhui Wu
-  publisher: Institute of Electrical and Electronics Engineers (IEEE)
-  date: ''
-  link: https://doi.org/g9vgrz
+  - Guoqing Wang
+  - Shaochong Liu
+  - Yang Yang
+  - Wei Li
+  - Xiongxin Tang
+  - Shuhang Gu
+  - Chongyi Li
+  - Heng Tao Shen
+  publisher: IEEE Transactions on Pattern Analysis and Machine Intelligence
+  date: '2024-12-01'
+  link: https://doi.org/g5m3c4
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/tcsvt.2024.3426673
@@ -327,87 +335,5 @@
   date: '2023-01-01'
   link: https://doi.org/g5m4vc
   image: https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-3-031-30111-7_20/MediaObjects/537784_1_En_20_Fig1_HTML.png?
-  plugin: sources.py
-  file: sources.yaml
-- id: 10.1109/mcsoc57363.2022.00035
-  title: Driver Status Monitoring System with Feedback from Fatigue Detection and
-    Lane Line Detection
-  authors:
-  - Kai Yan
-  - Chaoyue Zhao
-  - Chengkang Shen
-  - Peiyan Wang
-  - Guoqing Wang
-  publisher: 2022 IEEE 15th International Symposium on Embedded Multicore/Many-core
-    Systems-on-Chip (MCSoC)
-  date: '2022-12-01'
-  link: https://doi.org/g9vgsb
-  plugin: sources.py
-  file: sources.yaml
-- id: 10.1007/s11431-021-1914-8
-  title: Enhanced context encoding for single image raindrop removal
-  authors:
-  - GuoQing Wang
-  - Yang Yang
-  - Xing Xu
-  - JingJing Li
-  - HengTao Shen
-  publisher: Science China Technological Sciences
-  date: '2021-10-11'
-  link: https://doi.org/gnvpgt
-  plugin: sources.py
-  file: sources.yaml
-- id: 10.1145/3474085.3475632
-  title: Disentangled Representation Learning and Enhancement Network for Single Image
-    De-Raining
-  authors:
-  - Guoqing Wang
-  - Changming Sun
-  - Xing Xu
-  - Jingjing Li
-  - Zheng Wang
-  - Zeyu Ma
-  publisher: Proceedings of the 29th ACM International Conference on Multimedia
-  date: '2021-10-17'
-  link: https://doi.org/g9vgsc
-  plugin: sources.py
-  file: sources.yaml
-- id: 10.1016/j.combustflame.2021.01.032
-  title: Decomposition of swirling flame transfer function in the complex space
-  authors:
-  - Guoqing Wang
-  - Thibault F. Guiberti
-  - Xi Xia
-  - Lei Li
-  - Xunchen Liu
-  - William L. Roberts
-  - Fei Qi
-  publisher: Combustion and Flame
-  date: '2021-06-01'
-  link: https://doi.org/gmkcgc
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0010218021000468-gr2.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: 10.1007/s11263-020-01425-9
-  title: Context-Enhanced Representation Learning for Single Image Deraining
-  authors:
-  - Guoqing Wang
-  - Changming Sun
-  - Arcot Sowmya
-  publisher: International Journal of Computer Vision
-  date: '2021-03-02'
-  link: https://doi.org/g9vgsd
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs11263-020-01425-9/MediaObjects/11263_2020_1425_Fig3_HTML.png?
-  plugin: sources.py
-  file: sources.yaml
-- id: 10.1109/tip.2021.3064229
-  title: Attentive Feature Refinement Network for Single Rainy Image Restoration
-  authors:
-  - Guoqing Wang
-  - Changming Sun
-  - Arcot Sowmya
-  publisher: IEEE Transactions on Image Processing
-  date: '2021-01-01'
-  link: https://doi.org/gmv63c
   plugin: sources.py
   file: sources.yaml
