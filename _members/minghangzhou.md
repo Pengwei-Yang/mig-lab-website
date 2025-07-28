@@ -2,7 +2,7 @@
 name: Minghang Zhou
 image: images/minghangzhou.jpeg
 role: master
-grade: 2023
+description: 2023
 links:
   orcid: https://orcid.org/0009-0001-3032-2321
 ---
