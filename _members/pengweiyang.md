@@ -2,7 +2,7 @@
 name: Pengwei Yang
 image: images/pengweiyang.png
 role: phd
-grade: 2025
+description: 2025
 links:
 
   home-page: https://www.pengweiyang.com
