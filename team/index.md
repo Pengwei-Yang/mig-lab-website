@@ -26,7 +26,6 @@ Multi-modal Intelligence Group (MIG) is a research team based at the Center for 
 ## Alumni
 **💼Work:**
 - Zhiwen Wang: Pinduoduo (2022)
-- Fly in the Hazy/Cloudy/Shining Day  
 
 
 **📖Study:**
