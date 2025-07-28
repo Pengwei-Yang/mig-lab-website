@@ -2,7 +2,7 @@
 name: Kaiyue Zhang
 image: images/kaiyuezhang.jpeg
 role: phd
-grade: 2025
+description: 2025
 links:
   orcid: https://orcid.org/0009-0001-3032-2321
 ---
