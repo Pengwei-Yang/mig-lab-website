@@ -7,6 +7,8 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
+# 🔬 Research Directions
+
 The **Multi-modal Intelligence Group (MIG)** focuses on three major research directions that integrate cutting-edge artificial intelligence, computer vision, and aerial systems. Each direction is organized into a dedicated sub-team with monthly rotating leadership.
 
 ---
@@ -15,8 +17,8 @@ The **Multi-modal Intelligence Group (MIG)** focuses on three major research dir
 
 Designing low-level vision algorithms that enable aerial vehicles to "see" in complex conditions — night, shining, hazy, cloudy, and rainy days. The focus is on deployment in resource-constrained edge devices on drones.
 
-**Team Leads (rotating monthly):** Zhang Yangming, Liu Junyu, Liang Lanyue, Qiao Chaofan  
-**Team Members:** Rui Quan, Xie Dongyu, Wang Zhibin, Zhang Jiening, Fan Zhuoyao, Zhou Jiayi, Hu Zixiao, Bo Wen, Zhang Huilin, Feng Yangyang
+**Team Leads (rotating monthly):** Yangming Zhang, Junyu Liu, Lanyue Liang, Chaofan Qiao  
+**Team Members:** Quan Rui, Dongyu Xie, Zhibin Wang, Jiening Zhang, Zhuoyao Fan, Jiayi Zhou, Zixiao Hu, Wen Bo, Huilin Zhang, Yangyang Feng
 
 **Representative Research Topics:**
 - Fly in the Dark Day (ISP imaging, Super-resolution)  
@@ -31,8 +33,8 @@ Designing low-level vision algorithms that enable aerial vehicles to "see" in co
 
 Developing vision and multimodal large language models (LLMs) to understand the world at pixel, object, and scene level. Deployed into UAVs for object recognition, scene reconstruction, and trend prediction.
 
-**Team Leads (rotating monthly):** Gao Yupeng, Wu Xi, Yang Pengwei, Zhang Jun  
-**Team Members:** Zhou Minghang, Zha Mingfeng, Lan Chenxi, Wang Keli, Wu Yuchen, Xu Yirui, Li Haixia
+**Team Leads (rotating monthly):** Yupeng Gao, Xi Wu, Pengwei Yang, Jun Zhang  
+**Team Members:** Minghang Zhou, Mingfeng Zha, Chenxi Lan, Keli Wang, Yuchen Wu, Yirui Xu, Haixia Li
 
 **Representative Research Topics:**
 - Multimodal large models for object understanding  
@@ -47,10 +49,11 @@ Developing vision and multimodal large language models (LLMs) to understand the 
 
 Designing embodied visual-language navigation (VLN) and visual-language action (VLA) algorithms, enabling UAVs and multi-agent systems to interact, self-control, and self-organize autonomously.
 
-**Team Leads (rotating monthly):** Pei Yunqiang, Zhang Kaiyue, Du Rongyu  
-**Team Members:** Chen Hongkun, Ye Ruyu, Zhang Mian
+**Team Leads (rotating monthly):** Yunqiang Pei, Kaiyue Zhang, Rongyu Du  
+**Team Members:** Hongkun Chen, Ruyu Ye, Mian Zhang
 
 **Representative Research Topics:**
 - Human instruction understanding  
 - Aerial agent collaboration  
 - Digital twin and world modeling  
+
