@@ -2,7 +2,7 @@
 name: Xi Wu
 image: images/xiwu.png
 role: phd
-grade: 2025
+description: 2025
 links:
   google-scholar: https://scholar.google.com.hk/citations?user=BLqN44UAAAAJ&hl=zh-CN
   orcid: https://orcid.org/0000-0002-6039-1977
