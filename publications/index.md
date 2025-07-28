@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Publications
 
-MIG focuses on Intelligent Visual Capturing Systems, Intelligent Visual Perception Systems, and Intelligent Embodied Aerial AI Systems and it has continuously published papers in these areas.
+Multi-modal Intelligence Group (MIG) focuses on Intelligent Visual Capturing Systems, Intelligent Visual Perception Systems, and Intelligent Embodied Aerial AI Systems and it has continuously published papers in these areas.
 
 {% include section.html %}
 
