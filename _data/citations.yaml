@@ -379,6 +379,49 @@
   link: https://doi.org/g9vgrw
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1109/tgrs.2024.3477739
+  title: "Density-Aware Cloud Removal of Remote Sensing Imagery Using a Global\u2013\
+    Local Fusion Transformer"
+  authors:
+  - Quan Rui
+  - Shiyuan He
+  - Tianyu Li
+  - Guoqing Wang
+  - Ningjuan Ruan
+  - Lin Mei
+  - Yang Yang
+  - Heng Tao Shen
+  publisher: IEEE Transactions on Geoscience and Remote Sensing
+  date: '2024-01-01'
+  link: https://doi.org/g9vgrx
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/tpami.2024.3432308/mm1
+  title: Towards a Flexible Semantic Guided Model for Single Image Enhancement and
+    Restoration_supp1-3432308.pdf
+  authors:
+  - Yuhui Wu
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: ''
+  link: https://doi.org/g9vgrz
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/tcsvt.2024.3426673
+  title: Dual Domain Perception and Progressive Refinement for Mirror Detection
+  authors:
+  - Mingfeng Zha
+  - Feiyang Fu
+  - Yunqiang Pei
+  - Guoqing Wang
+  - Tianyu Li
+  - Xiongxin Tang
+  - Yang Yang
+  - Heng Tao Shen
+  publisher: IEEE Transactions on Circuits and Systems for Video Technology
+  date: '2024-11-01'
+  link: https://doi.org/g9vgr2
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1609/aaai.v38i7.28521
   title: Weakly-Supervised Mirror Detection via Scribble Annotations
   authors:
