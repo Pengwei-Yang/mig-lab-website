@@ -13,10 +13,8 @@ We try our best to do research with long-term impact.
 
 ## Highlighted
 
-{% include citation.html lookup="Instance-aware Semantic Segmentation via Multi-task Network Cascades" style="rich" %}
-
-{% include citation.html lookup="BoxSup: Exploiting Bounding Boxes to Supervise Convolutional Networks for Semantic Segmentation" style="rich" %}
-
+{% include citation.html lookup="DMM: Disparity-guided Multispectral Mamba for Oriented Object Detection in Remote Sensing" style="rich" %}
+{% include citation.html lookup="DMM: Disparity-guided Multispectral Mamba for Oriented Object Detection in Remote Sensing" style="rich" %}
 {% include citation.html lookup="DMM: Disparity-guided Multispectral Mamba for Oriented Object Detection in Remote Sensing" style="rich" %}
 
 
