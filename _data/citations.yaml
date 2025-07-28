@@ -178,24 +178,6 @@
   link: https://doi.org/g9vgrx
   plugin: sources.py
   file: sources.yaml
-- id: 10.1109/TPAMI.2024.3432308
-  title: Towards a Flexible Semantic Guided Model for Single Image Enhancement and
-    Restoration
-  authors:
-  - Yuhui Wu
-  - Guoqing Wang
-  - Shaochong Liu
-  - Yang Yang
-  - Wei Li
-  - Xiongxin Tang
-  - Shuhang Gu
-  - Chongyi Li
-  - Heng Tao Shen
-  publisher: IEEE Transactions on Pattern Analysis and Machine Intelligence
-  date: '2024-12-01'
-  link: https://doi.org/g5m3c4
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1109/tcsvt.2024.3426673
   title: Dual Domain Perception and Progressive Refinement for Mirror Detection
   authors:
