@@ -2,7 +2,7 @@
 name: Zhuoyao Fan
 image: images/zhuoyaofan.png
 role: master
-grade: 2024
+description: 2024
 links:
 
   home-page: https://zyfan1228.github.io/
