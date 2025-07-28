@@ -25,4 +25,4 @@ We try our best to do research with long-term impact.
 
 {% include search-info.html %}
 
-{% include list.html data="citations" component="citation" filters="plugin: sources.py" style="bare" %}
+{% include list.html data="citations" component="citation" style="bare" %}
