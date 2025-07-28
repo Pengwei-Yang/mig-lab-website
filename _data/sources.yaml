@@ -36,9 +36,6 @@
 - id: doi:10.1109/vrw58643.2023.00206
 
 - id: doi:10.1109/tgrs.2023.3248106
-  
-- id: doi:10.1360/SSI-2023-0133
-  image: https://www.nxrte.com/wp-content/uploads/2023/11/2023112906312366.jpg
 
 - id: doi:10.1109/cvpr52729.2023.00166
   image: https://i-blog.csdnimg.cn/blog_migrate/84090ef1dcf8010fc070452e76a7536e.png
@@ -67,9 +64,9 @@
 - id: 10.1109/cvpr42600.2020.00671
   image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRytuyTcB1z9Ov8VjXadczjzWPXKu1Jtz-Eow&s
 
-- id: 10.1109/tifs.2019.2924553
+- id: 10.1109/TIFS.2019.2924553
 
-- id: 10.1109/tifs.2019.2922331
+- id: 10.1109/TIFS.2019.2922331
 
 - id: 10.1109/iccv.2019.00574
   image: https://i.loli.net/2020/02/09/G7cKqHPfiO5VXwl.png
