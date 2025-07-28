@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Publications
 
-We try our best to do research with long-term impact.
+MIG focuses on Intelligent Visual Capturing Systems, Intelligent Visual Perception Systems, and Intelligent Embodied Aerial AI Systems and it has continuously published papers in these areas.
 
 {% include section.html %}
 
