@@ -1,21 +1,3 @@
-- id: doi:10.1371/journal.pcbi.1007128
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
-  tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
-
 - id: doi:10.1109/TGRS.2025.3578309
   image: https://figures.semanticscholar.org/2772cd3edd8412098c18626c56063a4cc048c7c0/4-Figure3-1.png
 
@@ -28,15 +10,6 @@
 - id: doi:10.1109/TCSVT.2024.3497594
   image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/76/10916540/10752543/wang2ab-3497594-large.gif
 
-- id: doi:10.1145/3664647.3681364
-  
-- id: doi:10.1145/3664647.3681365
-
-- id: doi:10.1145/3664647.3681666
-
-- id: doi:10.1145/3664647.3681475
-
-- id: doi:10.1145/3664647.3680876
 
 - id: doi:10.1109/tgrs.2024.3477739
   image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/36/10354519/10713444/wang3-3477739-large.gif
@@ -47,9 +20,7 @@
 - id: doi:10.1109/tcsvt.2024.3426673
   image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/76/10768851/10595128/wang2abcdefghi-3426673-large.gif
   
-- id: doi:10.1609/aaai.v38i7.28521
 
-- id: doi:10.1609/aaai.v38i4.28186
 
 - id: doi:10.1109/vrw62533.2024.00195
   image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/10536145/10536146/10536551/10536551-fig-1-source-large.gif
@@ -75,9 +46,7 @@
 - id: 10.1109/mcsoc57363.2022.00035
   image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/10008388/10008225/10008445/10008445-fig-7-source-large.gif
   
-- id: 10.1007/s11431-021-1914-8
 
-- id: 10.1145/3474085.3475632
 
 - id: 10.1016/j.combustflame.2021.01.032
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0010218021000468-gr2.jpg
