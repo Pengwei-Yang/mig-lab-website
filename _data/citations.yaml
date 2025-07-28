@@ -1,19 +1,5 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
-- id: doi:10.1109/TGRS.2025.3578309
-  title: DMM: Disparity-guided Multispectral Mamba for Oriented Object Detection in Remote Sensing
-  authors:
-  - Minghang Zhou
-  - Tianyu Li
-  - Chaofan Qiao
-  - Dongyu Xie
-  - Guoqing Wang
-  - Ningjuan Ruan
-  - Lin Mei
-  - Yang Yang
-  - Heng Tao Shen 
-  publisher: IEEE Transactions on Geoscience and Remote Sensing
-  date: '2025-06-10'
-  link: https://ieeexplore.ieee.org/abstract/document/11029259
+
 
 - id: doi:10.1101/2025.06.19.660613
   title: Scalable data harmonization for single-cell image-based profiling with CytoTable
