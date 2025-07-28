@@ -2,7 +2,7 @@
 name: Jiening Zhang
 image: images/jieningzhang.jpeg
 role: master
-grade: 2024
+description: 2024
 links:
 
   home-page: https://github.com/JennyZhang0810
