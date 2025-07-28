@@ -33,7 +33,7 @@ The Multi-modal Intelligence Group (MIG) focuses on three major research directi
 
 {%
   include feature.html
-  image="images/research.jpg"
+  image="images/research.png"
   link="research"
   title="Our Research"
   text=text
