@@ -2,7 +2,7 @@
 name: Huilin Zhang
 image: images/huilinzhang.jpeg
 role: master
-grade: 2024
+description: 2024
 ---
 
 Zhang Huilin is currently pursuing a master's degree at the University of Electronic Science and Technology of China.    
