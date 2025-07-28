@@ -452,6 +452,26 @@
   link: https://doi.org/g9vgr4
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1109/vrw62533.2024.00195
+  title: 'Toward Optimized AR-Based Human-Robot Interaction Ergonomics: Modeling and
+    Predicting Interaction Comfort'
+  authors:
+  - Yunqiang Pei
+  - Bowen Jiang
+  - Kaiyue Zhang
+  - Ziyang Lu
+  - Mingfeng Zha
+  - Guoqing Wang
+  - Zhitao Liu
+  - Ning Xie
+  - Yang Yang
+  - Hengtao Shen
+  publisher: 2024 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts
+    and Workshops (VRW)
+  date: '2024-03-16'
+  link: https://doi.org/g9vgr5
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1007/978-3-031-72983-6_1
   title: "Diffusion Models as\_Optimizers for\_Efficient Planning in\_Offline RL"
   authors:
@@ -466,6 +486,36 @@
   date: '2024-10-29'
   link: https://doi.org/g9vgr6
   image: https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-3-031-72983-6_1/MediaObjects/635803_1_En_1_Fig2_HTML.png?
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/vrw58643.2023.00206
+  title: 'Multimodal Apology: Using WebXR to Repair Trust with Virtual Companion'
+  authors:
+  - Yunqiang Pei
+  - Renming Huang
+  - Guoqing Wang
+  - Yang Yang
+  - Ning Xie
+  - Heng Tao Shen
+  publisher: 2023 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts
+    and Workshops (VRW)
+  date: '2023-03-01'
+  link: https://doi.org/g9vgr7
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/tgrs.2023.3248106
+  title: Physics Guided Remote Sensing Image Synthesis Network for Ship Detection
+  authors:
+  - Weichang Zhang
+  - Rui Zhang
+  - Guoqing Wang
+  - Wei Li
+  - Xun Liu
+  - Yang Yang
+  - Die Hu
+  publisher: IEEE Transactions on Geoscience and Remote Sensing
+  date: '2023-01-01'
+  link: https://doi.org/g9vgr8
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1360/SSI-2023-0133
