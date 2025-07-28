@@ -238,23 +238,6 @@
   image: https://figures.semanticscholar.org/2772cd3edd8412098c18626c56063a4cc048c7c0/4-Figure3-1.png
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1109/TIP.2025.3572760
-  title: Heterogeneous Experts and Hierarchical Perception for Underwater Salient
-    Object Detection
-  authors:
-  - Mingfeng Zha
-  - Guoqing Wang
-  - Yunqiang Pei
-  - Tianyu Li
-  - Xiongxin Tang
-  - Chongyi Li
-  - Yang Yang
-  - Heng Tao Shen
-  publisher: IEEE Transactions on Image Processing
-  date: '2025-01-01'
-  link: https://doi.org/g9vgn5
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1007/978-3-031-72983-6_14
   title: "Region-Aware Distribution Contrast: A Novel Approach to\_Multi-task Partially\
     \ Supervised Learning"
@@ -269,22 +252,6 @@
   date: '2024-10-29'
   link: https://doi.org/g9vgpr
   image: https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-3-031-72983-6_14/MediaObjects/635803_1_En_14_Fig2_HTML.png?
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1109/TCSVT.2024.3497594
-  title: Toward Generalized and Realistic Unpaired Image Dehazing via Region-Aware
-    Physical Constraints
-  authors:
-  - Kaihao Lin
-  - Guoqing Wang
-  - Tianyu Li
-  - Yuhui Wu
-  - Chongyi Li
-  - Yang Yang
-  - Heng Tao Shen
-  publisher: IEEE Transactions on Circuits and Systems for Video Technology
-  date: '2025-03-01'
-  link: https://doi.org/g9vgps
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3664647.3681364
@@ -379,49 +346,6 @@
   link: https://doi.org/g9vgrw
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1109/tgrs.2024.3477739
-  title: "Density-Aware Cloud Removal of Remote Sensing Imagery Using a Global\u2013\
-    Local Fusion Transformer"
-  authors:
-  - Quan Rui
-  - Shiyuan He
-  - Tianyu Li
-  - Guoqing Wang
-  - Ningjuan Ruan
-  - Lin Mei
-  - Yang Yang
-  - Heng Tao Shen
-  publisher: IEEE Transactions on Geoscience and Remote Sensing
-  date: '2024-01-01'
-  link: https://doi.org/g9vgrx
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1109/tpami.2024.3432308/mm1
-  title: Towards a Flexible Semantic Guided Model for Single Image Enhancement and
-    Restoration_supp1-3432308.pdf
-  authors:
-  - Yuhui Wu
-  publisher: Institute of Electrical and Electronics Engineers (IEEE)
-  date: ''
-  link: https://doi.org/g9vgrz
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1109/tcsvt.2024.3426673
-  title: Dual Domain Perception and Progressive Refinement for Mirror Detection
-  authors:
-  - Mingfeng Zha
-  - Feiyang Fu
-  - Yunqiang Pei
-  - Guoqing Wang
-  - Tianyu Li
-  - Xiongxin Tang
-  - Yang Yang
-  - Heng Tao Shen
-  publisher: IEEE Transactions on Circuits and Systems for Video Technology
-  date: '2024-11-01'
-  link: https://doi.org/g9vgr2
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1609/aaai.v38i7.28521
   title: Weakly-Supervised Mirror Detection via Scribble Annotations
   authors:
@@ -452,26 +376,6 @@
   link: https://doi.org/g9vgr4
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1109/vrw62533.2024.00195
-  title: 'Toward Optimized AR-Based Human-Robot Interaction Ergonomics: Modeling and
-    Predicting Interaction Comfort'
-  authors:
-  - Yunqiang Pei
-  - Bowen Jiang
-  - Kaiyue Zhang
-  - Ziyang Lu
-  - Mingfeng Zha
-  - Guoqing Wang
-  - Zhitao Liu
-  - Ning Xie
-  - Yang Yang
-  - Hengtao Shen
-  publisher: 2024 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts
-    and Workshops (VRW)
-  date: '2024-03-16'
-  link: https://doi.org/g9vgr5
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1007/978-3-031-72983-6_1
   title: "Diffusion Models as\_Optimizers for\_Efficient Planning in\_Offline RL"
   authors:
@@ -486,36 +390,6 @@
   date: '2024-10-29'
   link: https://doi.org/g9vgr6
   image: https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-3-031-72983-6_1/MediaObjects/635803_1_En_1_Fig2_HTML.png?
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1109/vrw58643.2023.00206
-  title: 'Multimodal Apology: Using WebXR to Repair Trust with Virtual Companion'
-  authors:
-  - Yunqiang Pei
-  - Renming Huang
-  - Guoqing Wang
-  - Yang Yang
-  - Ning Xie
-  - Heng Tao Shen
-  publisher: 2023 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts
-    and Workshops (VRW)
-  date: '2023-03-01'
-  link: https://doi.org/g9vgr7
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1109/tgrs.2023.3248106
-  title: Physics Guided Remote Sensing Image Synthesis Network for Ship Detection
-  authors:
-  - Weichang Zhang
-  - Rui Zhang
-  - Guoqing Wang
-  - Wei Li
-  - Xun Liu
-  - Yang Yang
-  - Die Hu
-  publisher: IEEE Transactions on Geoscience and Remote Sensing
-  date: '2023-01-01'
-  link: https://doi.org/g9vgr8
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1360/SSI-2023-0133
@@ -562,21 +436,6 @@
   date: '2023-01-01'
   link: https://doi.org/g5m4vc
   image: https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-3-031-30111-7_20/MediaObjects/537784_1_En_20_Fig1_HTML.png?
-  plugin: sources.py
-  file: sources.yaml
-- id: 10.1109/mcsoc57363.2022.00035
-  title: Driver Status Monitoring System with Feedback from Fatigue Detection and
-    Lane Line Detection
-  authors:
-  - Kai Yan
-  - Chaoyue Zhao
-  - Chengkang Shen
-  - Peiyan Wang
-  - Guoqing Wang
-  publisher: 2022 IEEE 15th International Symposium on Embedded Multicore/Many-core
-    Systems-on-Chip (MCSoC)
-  date: '2022-12-01'
-  link: https://doi.org/g9vgsb
   plugin: sources.py
   file: sources.yaml
 - id: 10.1007/s11431-021-1914-8
@@ -635,41 +494,6 @@
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs11263-020-01425-9/MediaObjects/11263_2020_1425_Fig3_HTML.png?
   plugin: sources.py
   file: sources.yaml
-- id: 10.1109/tip.2021.3064229
-  title: Attentive Feature Refinement Network for Single Rainy Image Restoration
-  authors:
-  - Guoqing Wang
-  - Changming Sun
-  - Arcot Sowmya
-  publisher: IEEE Transactions on Image Processing
-  date: '2021-01-01'
-  link: https://doi.org/gmv63c
-  plugin: sources.py
-  file: sources.yaml
-- id: 10.1109/tip.2020.3023773
-  title: Cascaded Attention Guidance Network for Single Rainy Image Restoration
-  authors:
-  - Guoqing Wang
-  - Changming Sun
-  - Arcot Sowmya
-  publisher: IEEE Transactions on Image Processing
-  date: '2020-01-01'
-  link: https://doi.org/g6gzvw
-  plugin: sources.py
-  file: sources.yaml
-- id: 10.5220/0010432900360045
-  title: Adversarial Unsupervised Domain Adaptation Guided with Deep Clustering for
-    Face Presentation Attack Detection
-  authors:
-  - Yomna El-Din
-  - Mohamed Moustafa
-  - Hani Mahdi
-  publisher: Proceedings of the International Conference on Image Processing and Vision
-    Engineering
-  date: '2021-01-01'
-  link: https://doi.org/g9vgsf
-  plugin: sources.py
-  file: sources.yaml
 - id: 10.1109/cvpr42600.2020.00671
   title: Cross-Domain Face Presentation Attack Detection via Multi-Domain Disentangled
     Representation Learning
@@ -682,28 +506,6 @@
   date: '2020-06-01'
   link: https://doi.org/ghbbk3
   image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRytuyTcB1z9Ov8VjXadczjzWPXKu1Jtz-Eow&s
-  plugin: sources.py
-  file: sources.yaml
-- id: 10.1109/tifs.2019.2924553
-  title: Learning a Compact Vein Discrimination Model With GANerated Samples
-  authors:
-  - Guoqing Wang
-  - Changming Sun
-  - Arcot Sowmya
-  publisher: IEEE Transactions on Information Forensics and Security
-  date: '2020-01-01'
-  link: https://doi.org/g6x65x
-  plugin: sources.py
-  file: sources.yaml
-- id: 10.1109/tifs.2019.2922331
-  title: Multi-Weighted Co-Occurrence Descriptor Encoding for Vein Recognition
-  authors:
-  - Guoqing Wang
-  - Changming Sun
-  - Arcot Sowmya
-  publisher: IEEE Transactions on Information Forensics and Security
-  date: '2020-01-01'
-  link: https://doi.org/g9vgsg
   plugin: sources.py
   file: sources.yaml
 - id: 10.1109/iccv.2019.00574
