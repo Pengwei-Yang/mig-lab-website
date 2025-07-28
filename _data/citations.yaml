@@ -238,6 +238,23 @@
   image: https://figures.semanticscholar.org/2772cd3edd8412098c18626c56063a4cc048c7c0/4-Figure3-1.png
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1109/TIP.2025.3572760
+  title: Heterogeneous Experts and Hierarchical Perception for Underwater Salient
+    Object Detection
+  authors:
+  - Mingfeng Zha
+  - Guoqing Wang
+  - Yunqiang Pei
+  - Tianyu Li
+  - Xiongxin Tang
+  - Chongyi Li
+  - Yang Yang
+  - Heng Tao Shen
+  publisher: IEEE Transactions on Image Processing
+  date: '2025-01-01'
+  link: https://doi.org/g9vgn5
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1007/978-3-031-72983-6_14
   title: "Region-Aware Distribution Contrast: A Novel Approach to\_Multi-task Partially\
     \ Supervised Learning"
@@ -252,6 +269,22 @@
   date: '2024-10-29'
   link: https://doi.org/g9vgpr
   image: https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-3-031-72983-6_14/MediaObjects/635803_1_En_14_Fig2_HTML.png?
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TCSVT.2024.3497594
+  title: Toward Generalized and Realistic Unpaired Image Dehazing via Region-Aware
+    Physical Constraints
+  authors:
+  - Kaihao Lin
+  - Guoqing Wang
+  - Tianyu Li
+  - Yuhui Wu
+  - Chongyi Li
+  - Yang Yang
+  - Heng Tao Shen
+  publisher: IEEE Transactions on Circuits and Systems for Video Technology
+  date: '2025-03-01'
+  link: https://doi.org/g9vgps
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3664647.3681364
