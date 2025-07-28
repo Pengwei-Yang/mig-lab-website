@@ -2,7 +2,7 @@
 name: Zhibin Wang
 image: images/zhibinwang.jpeg
 role: master
-grade: 2023
+description: 2023
 links:
 
   home-page: https://github.com/Johnathan218
