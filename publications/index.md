@@ -14,8 +14,7 @@ MIG focuses on Intelligent Visual Capturing Systems, Intelligent Visual Percepti
 ## Highlighted
 
 {% include citation.html lookup="DMM: Disparity-guided Multispectral Mamba for Oriented Object Detection in Remote Sensing" style="rich" %}
-{% include citation.html lookup="Heterogeneous Experts and Hierarchical Perception for Underwater Salient
-    Object Detection" style="rich" %}
+{% include citation.html lookup="Heterogeneous Experts and Hierarchical Perception for Underwater Salient Object Detection" style="rich" %}
 
 
 {% include section.html %}
