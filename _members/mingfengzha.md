@@ -2,7 +2,7 @@
 name: Mingfeng Zha
 image: images/mingfengzha.jpeg
 role: master
-grade: 2023
+description: 2023
 ---
 
 Mingfeng Zha is a master student at the University of Electronic Science and Technology of China, and his research areas focus on multimodal learning and other related fields.
