@@ -199,27 +199,11 @@
   - Casey S. Greene
   - Anthony Gitter
   publisher: PLOS Computational Biology
-  date: '2020-12-04'
+  date: '2019-06-24'
   link: https://doi.org/c7np
   orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/573782
   title: Sequential compression of gene expression across dimensionalities and methods
     reveals no single best method or dimensionality
@@ -305,98 +289,6 @@
   image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/76/10916540/10752543/wang2ab-3497594-large.gif
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1145/3664647.3681364
-  title: Improving Interaction Comfort in Authoring Task in AR-HRI through Dynamic
-    Dual-Layer Interaction Adjustment
-  authors:
-  - Yunqiang Pei
-  - Keiyue Zhang
-  - Hongrong Yang
-  - Yong Tao
-  - Qihang Tang
-  - Jialei Tang
-  - Guoqing Wang
-  - Zhitao Liu
-  - Ning Xie
-  - Peng Wang
-  - Yang Yang
-  - Hengtao Shen
-  publisher: Proceedings of the 32nd ACM International Conference on Multimedia
-  date: '2024-10-28'
-  link: https://doi.org/g84263
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1145/3664647.3681365
-  title: 'Emotion Recognition in HMDs: A Multi-task Approach Using Physiological Signals
-    and Occluded Faces'
-  authors:
-  - Yunqiang Pei
-  - Jialei Tang
-  - Qihang Tang
-  - Mingfeng Zha
-  - Dongyu Xie
-  - Guoqing Wang
-  - Zhitao Liu
-  - Ning Xie
-  - Peng Wang
-  - Yang Yang
-  - Hengtao Shen
-  publisher: Proceedings of the 32nd ACM International Conference on Multimedia
-  date: '2024-10-28'
-  link: https://doi.org/g9vgrs
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1145/3664647.3681666
-  title: Generalizing ISP Model by Unsupervised Raw-to-raw Mapping
-  authors:
-  - Dongyu Xie
-  - Chaofan Qiao
-  - Lanyue Liang
-  - Zhiwen Wang
-  - Tianyu Li
-  - Qiao Liu
-  - Chongyi Li
-  - Guoqing Wang
-  - Yang Yang
-  publisher: Proceedings of the 32nd ACM International Conference on Multimedia
-  date: '2024-10-28'
-  link: https://doi.org/g9vgrt
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1145/3664647.3681475
-  title: 'Cascaded Adversarial Attack: Simultaneously Fooling Rain Removal and Semantic
-    Segmentation Networks'
-  authors:
-  - Zhiwen Wang
-  - Yuhui Wu
-  - Zheng Wang
-  - Jiwei Wei
-  - Tianyu Li
-  - Guoqing Wang
-  - Yang Yang
-  - Hengtao Shen
-  publisher: Proceedings of the 32nd ACM International Conference on Multimedia
-  date: '2024-10-28'
-  link: https://doi.org/g9vgrv
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1145/3664647.3680876
-  title: 'JoReS-Diff: Joint Retinex and Semantic Priors in Diffusion Model for Low-light
-    Image Enhancement'
-  authors:
-  - Yuhui Wu
-  - Guoqing Wang
-  - Zhiwen Wang
-  - Yang Yang
-  - Tianyu Li
-  - Malu Zhang
-  - Chongyi Li
-  - Heng Tao Shen
-  publisher: Proceedings of the 32nd ACM International Conference on Multimedia
-  date: '2024-10-28'
-  link: https://doi.org/g9vgrw
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1109/tgrs.2024.3477739
   title: "Density-Aware Cloud Removal of Remote Sensing Imagery Using a Global\u2013\
     Local Fusion Transformer"
@@ -441,36 +333,6 @@
   date: '2024-11-01'
   link: https://doi.org/g9vgr2
   image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/76/10768851/10595128/wang2abcdefghi-3426673-large.gif
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1609/aaai.v38i7.28521
-  title: Weakly-Supervised Mirror Detection via Scribble Annotations
-  authors:
-  - Mingfeng Zha
-  - Yunqiang Pei
-  - Guoqing Wang
-  - Tianyu Li
-  - Yang Yang
-  - Wenbin Qian
-  - Heng Tao Shen
-  publisher: Proceedings of the AAAI Conference on Artificial Intelligence
-  date: '2024-03-24'
-  link: https://doi.org/g9vgr3
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1609/aaai.v38i4.28186
-  title: 'ScanERU: Interactive 3D Visual Grounding Based on Embodied Reference Understanding'
-  authors:
-  - Ziyang Lu
-  - Yunqiang Pei
-  - Guoqing Wang
-  - Peiwei Li
-  - Yang Yang
-  - Yinjie Lei
-  - Heng Tao Shen
-  publisher: Proceedings of the AAAI Conference on Artificial Intelligence
-  date: '2024-03-24'
-  link: https://doi.org/g9vgr4
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/vrw62533.2024.00195
@@ -602,34 +464,6 @@
   date: '2022-12-01'
   link: https://doi.org/g9vgsb
   image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/10008388/10008225/10008445/10008445-fig-7-source-large.gif
-  plugin: sources.py
-  file: sources.yaml
-- id: 10.1007/s11431-021-1914-8
-  title: Enhanced context encoding for single image raindrop removal
-  authors:
-  - GuoQing Wang
-  - Yang Yang
-  - Xing Xu
-  - JingJing Li
-  - HengTao Shen
-  publisher: Science China Technological Sciences
-  date: '2021-10-11'
-  link: https://doi.org/gnvpgt
-  plugin: sources.py
-  file: sources.yaml
-- id: 10.1145/3474085.3475632
-  title: Disentangled Representation Learning and Enhancement Network for Single Image
-    De-Raining
-  authors:
-  - Guoqing Wang
-  - Changming Sun
-  - Xing Xu
-  - Jingjing Li
-  - Zheng Wang
-  - Zeyu Ma
-  publisher: Proceedings of the 29th ACM International Conference on Multimedia
-  date: '2021-10-17'
-  link: https://doi.org/g9vgsc
   plugin: sources.py
   file: sources.yaml
 - id: 10.1016/j.combustflame.2021.01.032
