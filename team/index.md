@@ -24,7 +24,17 @@ Multi-modal Intelligence Group (MIG) is a research team based at the Center for 
    filter="role == 'master'" style="small" %}
 
 ## Alumni
-{% include list.html data="members" component="portrait"
-   filter="role == 'former'" style="small" %}
+**Work:**
+- Fly in the Dark Day (ISP imaging, Super-resolution)  
+- Fly in the Hazy/Cloudy/Shining Day  
+- Remote cloud removal, HDR enhancement  
+- Spectral and video compression imaging  
+- Task-driven joint optimization
+**Study:**
+- Fly in the Dark Day (ISP imaging, Super-resolution)  
+- Fly in the Hazy/Cloudy/Shining Day  
+- Remote cloud removal, HDR enhancement  
+- Spectral and video compression imaging  
+- Task-driven joint optimization
 
 {% include section.html %}
