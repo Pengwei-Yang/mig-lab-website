@@ -24,18 +24,14 @@ Multi-modal Intelligence Group (MIG) is a research team based at the Center for 
    filter="role == 'master'" style="small" %}
 
 ## Alumni
-**Work:**
-- Fly in the Dark Day (ISP imaging, Super-resolution)  
+**💼Work:**
+- Zhiwen Wang: Pinduoduo (2022)
 - Fly in the Hazy/Cloudy/Shining Day  
-- Remote cloud removal, HDR enhancement  
-- Spectral and video compression imaging  
-- Task-driven joint optimization
 
-**Study:**
-- Fly in the Dark Day (ISP imaging, Super-resolution)  
-- Fly in the Hazy/Cloudy/Shining Day  
-- Remote cloud removal, HDR enhancement  
-- Spectral and video compression imaging  
-- Task-driven joint optimization
+
+**📖Study:**
+- Yuhui Wu: Hong Kong Polytechnic University (2021) 
+- Meixuan Li: Tongji University (2022)
+
 
 {% include section.html %}
