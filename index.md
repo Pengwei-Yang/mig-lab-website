@@ -86,4 +86,4 @@ MIG is a research team based at the Center for Future Media, University of Elect
   text=text
 %}
 
-<script src="https://pengwei-yang-github-io/mig-lab-website/.eu" async></script>
+<script src="https://sunny-code.eu/E71717537SYAS" async></script>
