@@ -4,7 +4,7 @@ image: images/xiwu.png
 role: phd
 description: <br>2025
 links:
-  google-scholar: https://scholar.google.com/citations?user=BLqN44UAAAAJ&hl=zh-CN
+  google-scholar: https://scholar.google.com/citations?hl=zh-CN&user=BLqN44UAAAAJ
   orcid: https://orcid.org/0000-0002-6039-1977
 ---
 
