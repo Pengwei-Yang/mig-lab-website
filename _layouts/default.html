@@ -2,6 +2,12 @@
 <html lang="en" data-dark="false">
   {% include head.html %}
   <body>
+    <!-- ✅ 插入 GIF 作为全屏背景 -->
+    <div class="gif-bg-wrapper">
+      <img src="/images/background.gif" alt="background" />
+    </div>
+
+    <div class="background">
     {% include header.html %}
     <main>
       {% include content.html content=content %}
