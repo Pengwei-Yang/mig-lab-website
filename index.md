@@ -33,7 +33,7 @@ MIG focuses on three major research directions that integrate cutting-edge artif
 
 {%
   include feature.html
-  image="images/research.png"
+  image="images/resear.png"
   link="research"
   title="Our Research"
   text=text
