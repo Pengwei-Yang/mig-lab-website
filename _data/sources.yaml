@@ -38,6 +38,7 @@
 - id: doi:10.1109/vrw62533.2024.00195
 
 - id: doi:10.1007/978-3-031-72983-6_1
+  publisher: European Conference on Computer Vision
   image: https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-3-031-72983-6_1/MediaObjects/635803_1_En_1_Fig2_HTML.png?
 
 - id: doi:10.1109/vrw58643.2023.00206
@@ -48,4 +49,5 @@
   image: https://i-blog.csdnimg.cn/blog_migrate/84090ef1dcf8010fc070452e76a7536e.png
 
 - id: doi:10.1007/978-3-031-30111-7_20
+  publisher: European Conference on Computer Vision
   image: https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-3-031-30111-7_20/MediaObjects/537784_1_En_20_Fig1_HTML.png?
