@@ -1,20 +1,21 @@
+@charset "UTF-8";
 .background {
   position: relative;
-  background: var(--background);
+  background: transparent; /* 先禁用黑色背景 */
   color: var(--text);
   z-index: 1;
+  min-height: 100vh; /* 确保有高度 */
 }
 
 .background:before {
-  display: none;
   content: "";
   position: absolute;
   inset: 0;
-  background-image: var(--image);
+  background-image: url("/mig-lab-website/images/background.gif");
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: 50% 50%;
-  opacity: 0.25;
+  background-position: center;
+  opacity: 1; /* 提高可见度，后面再微调 */
   z-index: -1;
 }
 
