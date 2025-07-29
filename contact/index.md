@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-We are continuously recruiting postdoctoral researchers, Ph.D., and Master's students. If you are interested, please send an email to gqwang0420@uestc.edu.cn and cc gqwang0420@hotmail.com.
+<span style="color:red">We are continuously recruiting postdoctoral researchers, Ph.D., and Master's students.</span> If you are interested, please send an email to **gqwang0420@uestc.edu.cn** and cc **gqwang0420@hotmail.com**.
 
 
 <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
