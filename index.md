@@ -56,7 +56,7 @@ Multi-modal Intelligence Group (MIG) focuses on Intelligent Visual Capturing Sys
 
 {%
   include feature.html
-  image="images/publication.png"
+  image="images/pub.png"
   link="publications"
   title="Our Publications"
   flip=true
