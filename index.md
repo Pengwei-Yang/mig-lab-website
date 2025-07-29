@@ -18,7 +18,7 @@ Specifically, our group explore the cutting edge research in the area of artific
 
 {% capture text %}
 
-Multi-modal Intelligence Group (MIG) focuses on three major research directions that integrate cutting-edge artificial intelligence, computer vision, and aerial systems.
+MIG focuses on three major research directions that integrate cutting-edge artificial intelligence, computer vision, and aerial systems.
 
 {%
   include button.html
@@ -41,7 +41,7 @@ Multi-modal Intelligence Group (MIG) focuses on three major research directions 
 
 {% capture text %}
 
-Multi-modal Intelligence Group (MIG) focuses on Intelligent Visual Capturing Systems, Intelligent Visual Perception Systems, and Intelligent Embodied Aerial AI Systems and it has continuously published papers in these areas.
+MIG focuses on Intelligent Visual Capturing Systems, Intelligent Visual Perception Systems, and Intelligent Embodied Aerial AI Systems and it has continuously published papers in these areas.
 
 {%
   include button.html
@@ -65,7 +65,7 @@ Multi-modal Intelligence Group (MIG) focuses on Intelligent Visual Capturing Sys
 
 {% capture text %}
 
-Multi-modal Intelligence Group (MIG) is a research team based at the Center for Future Media, University of Electronic Science and Technology of China (UESTC).
+MIG is a research team based at the Center for Future Media, University of Electronic Science and Technology of China (UESTC).
 
 {%
   include button.html
