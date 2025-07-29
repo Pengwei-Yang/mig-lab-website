@@ -11,7 +11,7 @@ nav:
 
 ---
 
-## 👀 Intelligent Visual Capturing Systems (FLY-IN)
+## 👁‍🗨 Intelligent Visual Capturing Systems (FLY-IN)
 
 Designing low-level vision algorithms that enable aerial vehicles to "see" in complex conditions — night, shining, hazy, cloudy, and rainy days. The focus is on deployment in resource-constrained edge devices on drones.
 
