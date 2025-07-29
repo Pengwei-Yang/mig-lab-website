@@ -5,22 +5,19 @@
 
 .background {
   position: relative;
-  background: transparent;   /* 先禁用黑色背景 */
+  background: var(--background);
   color: var(--text);
   z-index: 1;
-  min-height: 100vh;         /* 确保有高度 */
 }
 
 .background:before {
   content: "";
   position: absolute;
   inset: 0;
-  background-image: url("/mig-lab-website/images/background.gif");
+  background-image: var(--image);
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: center;
-  opacity: 1;                 /* 提高可见度，后面再微调 */
+  background-position: 50% 50%;
+  opacity: 0.25;
   z-index: -1;
 }
-
-
