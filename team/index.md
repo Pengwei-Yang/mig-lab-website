@@ -25,12 +25,18 @@ Multi-modal Intelligence Group (MIG) is a research team based at the Center for 
 
 ## Alumni
 **💼Work:**
+- Feiqi Long: CRRC Corporation (2021)
+- Rui Zhang: Hikvision (2021)
 - Zhiwen Wang: Pinduoduo (2022)
+- Chen Pan: Tecent (2022)
+- Kaihao Lin: Tecent (2022)
+- Baolin Chen: Xiaomi (2022)
 
 
 **📖Study:**
 - Yuhui Wu: Hong Kong Polytechnic University (2021) 
 - Meixuan Li: Tongji University (2022)
+- Renming Huang: Shanghai Jiao Tong University (2022)
 
 
 {% include section.html %}
