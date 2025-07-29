@@ -1,7 +1,9 @@
 ---
-title: New Publication: Implicit Counterfactual Learning for Audio-Visual Segmentation
-image: images/iccv.jpg
-author: Mingfeng Zha, Tianyu Li, Guoqing Wang, Peng Wang, Yangyang Wu, Yang Yang, Hengtao Shen
+title: An ordinary day in the life of me
+image: images/some-photo.jpg
+author: tim-member
+tags:
+  - biology
+  - big data
+  - medicine
 ---
-
-Recently, the paper "Implicit Counterfactual Learning for Audio-Visual Segmentation" submitted by MIG member Mingfeng Zha was accepted by ICCV2025. Congratulations to Mingfeng Zha and all the co-authors!!!
