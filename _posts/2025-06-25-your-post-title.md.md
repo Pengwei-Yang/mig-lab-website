@@ -1,5 +1,5 @@
 ---
-title: New Publication: Implicit Counterfactual Learning for Audio-Visual Segmentation
+title: New Publication --> Implicit Counterfactual Learning for Audio-Visual Segmentation
 image: images/some-photo.jpg
 author: tim-member
 tags:
