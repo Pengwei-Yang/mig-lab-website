@@ -53,6 +53,23 @@
   image: https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-3-031-72983-6_14/MediaObjects/635803_1_En_14_Fig2_HTML.png?
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1371/journal.pcbi.1007128
+  title: Open collaborative writing with Manubot
+  authors:
+  - Daniel S. Himmelstein
+  - Vincent Rubinetti
+  - David R. Slochower
+  - Dongbo Hu
+  - Venkat S. Malladi
+  - Casey S. Greene
+  - Anthony Gitter
+  publisher: European Conference on Computer Vision
+  date: '2024-10-29'
+  link: https://doi.org/g9vgpr
+  type: paper
+  image: https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-3-031-72983-6_14/MediaObjects/635803_1_En_14_Fig2_HTML.png?
+  plugin: sources.py
+  file: sources.yaml
 - id: 10.3390/rs17030496
   title: Knowledge-Guided Multi-Task Network for Remote Sensing Imagery
   authors:
