@@ -5,7 +5,7 @@ nav:
   tooltip: Published works
 ---
 
-# {% include icon.html icon="fa-solid fa-books" %}Publications
+# {% include icon.html icon="fa-solid fa-book" %}Publications
 
 **Multi-modal Intelligence Group (MIG)** focuses on Intelligent Visual Capturing Systems, Intelligent Visual Perception Systems, and Intelligent Embodied Aerial AI Systems and it has continuously published papers in these areas.
 
