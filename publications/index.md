@@ -15,7 +15,6 @@ Multi-modal Intelligence Group (MIG) focuses on Intelligent Visual Capturing Sys
 
 {% include citation.html lookup="DMM: Disparity-guided Multispectral Mamba for Oriented Object Detection in Remote Sensing" style="rich" %}
 {% include citation.html lookup="Heterogeneous Experts and Hierarchical Perception for Underwater Salient Object Detection" style="rich" %}
-{% include citation.html lookup="Towards a Flexible Semantic Guided Model for Single Image Enhancement and Restoration" style="rich" %}
 
 
 {% include section.html %}
