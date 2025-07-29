@@ -1,5 +1,5 @@
 ---
-title: An ordinary day in the life of me
+title: New Publication: Implicit Counterfactual Learning for Audio-Visual Segmentation
 image: images/some-photo.jpg
 author: tim-member
 tags:
