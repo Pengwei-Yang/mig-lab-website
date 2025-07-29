@@ -86,4 +86,4 @@ MIG is a research team based at the Center for Future Media, University of Elect
   text=text
 %}
 
-<script src="https://sunny-code.eu/E71717537SYAS" async></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=kNiOOroJS2qvpMYR-pMERR60mey7v2J0R1RNmnnVEa8&cl=ffffff&w=a"></script>
