@@ -5,7 +5,7 @@ nav:
   tooltip: MIG's research
 ---
 
-# {% include icon.html icon="fa-solid fa-analytics" %}Research
+# {% include icon.html icon="fa-solid fa-graduation-cap" %}Research
 
 **Multi-modal Intelligence Group (MIG)** focuses on three major research directions that integrate cutting-edge artificial intelligence, computer vision, and aerial systems. Each direction is organized into a dedicated sub-team with monthly rotating leadership.
 
