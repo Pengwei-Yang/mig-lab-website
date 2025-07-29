@@ -57,6 +57,7 @@ sass:
   sass_dir: _styles
 
 # force jekyll to include certain files/folders
+baseurl: "/mig-lab-website"
 include:
   - _styles
   - _scripts
