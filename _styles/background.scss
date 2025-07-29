@@ -9,6 +9,7 @@
 }
 
 .background:before {
+  display: none;
   content: "";
   position: absolute;
   inset: 0;
@@ -18,4 +19,22 @@
   background-position: 50% 50%;
   opacity: 0.25;
   z-index: -1;
+}
+
+.gif-bg-wrapper {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: -10;
+  overflow: hidden;
+}
+
+.gif-bg-wrapper img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  pointer-events: none;
+  user-select: none;
 }
